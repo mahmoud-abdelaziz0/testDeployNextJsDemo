@@ -8,6 +8,9 @@ const Navbar = () => {
         <Link className="navbar-brand" href="/">
           <span className="text-primary fw-bold">Next.js_Demo2</span>
         </Link>
+        <Link className="navbar-brand" href="/">
+          <span className="text-primary fw-bold">Next.js_Demo2</span>
+        </Link>
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
             <li className="nav-item">
